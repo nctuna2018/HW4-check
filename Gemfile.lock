@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dmarc (0.5.0)
+      parslet (~> 1.5)
+    parslet (1.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dmarc
+
+BUNDLED WITH
+   2.0.2

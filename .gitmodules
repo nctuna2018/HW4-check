@@ -1,0 +1,3 @@
+[submodule "checks/spf-tools"]
+	path = checks/spf-tools
+	url = https://github.com/nctuna2018/spf-tools.git
